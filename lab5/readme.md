@@ -15,10 +15,10 @@ In this lab we will introduce the IAM handwriting dataset, and give you a chance
 ## Follow along
 
 ```
-cd lab5_soln/
+cd lab5/
 wandb init
    - team: fsdl
-   - project: fsdl-text-recognizer-project
+   - project: text-recognizer-project
 ```
 
 ## IAM Lines Dataset
