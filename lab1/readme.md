@@ -3,7 +3,7 @@
 Before we get started, please run
 
 ```
-cd lab2_soln/
+cd lab2/
 pipenv run python text_recognizer/datasets/emnist.py
 cd ..
 ```
@@ -15,7 +15,7 @@ Familiarize you with the high-level organizational design of the codebase
 ## Follow along
 
 ```
-cd lab9_soln/
+cd lab9/
 ```
 
 ## Project structure
