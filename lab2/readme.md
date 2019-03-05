@@ -14,7 +14,7 @@ Train a model to solve a simplified version of the line text recognition problem
 ## Follow along
 
 ```
-cd lab2_sln/
+cd lab2/
 ```
 
 ## Intro to EMNIST
