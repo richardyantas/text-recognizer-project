@@ -1,4 +1,4 @@
-# Full Stack Deep Learning Labs
+# Text recognizer project
 
 Welcome!
 
