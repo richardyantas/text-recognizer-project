@@ -12,25 +12,19 @@ Project developed during lab sessions of the [Full Stack Deep Learning Bootcamp]
 - We will deploy the prediction system as a serverless function to Amazon Lambda.
 - Lastly, we will set up monitoring that alerts us when the incoming data distribution changes.
 
-## Schedule for the Spring 2019 Bootcamp
+## Spring 2019 Bootcamp
 
-- First session (90 min)
-  - Overview of the labs. (15 min)
-  - Get set up. (10 min)
-  - Lab 1 (20 min): Project structure. 
-  - Lab 2 (25 min): Introduce EMNIST. Training code details. Train & evaluate character prediction baselines.
-  - Lab 3 (20 min): Introduce EMNIST Lines. Overview of model architecture. Train our model on EMNIST Lines.
-- Second session (60 min)
-  - Lab 4 (20 min): Weights & Biases + parallel experiments.
-  - Lab 5 (40 min): IAM Lines and experimentation time (launch a bunch of experiments, leave running overnight in a shared W&B).
-- Third session (90 min)
-  - Review results from the class on W&B
-  - Lab 6 (60 min) line detection task
-  - Lab 7 (30 min) data labeling
-    - Go through data versioning and even have a little labeling interface for fresh data that they generated on the first day
-- Fourth session (75 min)
-  - Lab 8 (15 min) continuous integration
-  - Lab 8 (60 min) web deployment
+  - Overview of the labs. 
+  - Get set up. 
+  - Lab 1 : Project structure. 
+  - Lab 2 : Introduce EMNIST. Training code details. Train & evaluate character prediction baselines.
+  - Lab 3 : Introduce EMNIST Lines. Overview of model architecture. Train our model on EMNIST Lines.
+  - Lab 4 : Weights & Biases + parallel experiments.
+  - Lab 5 : IAM Lines and experimentation time (launch a bunch of experiments, leave running overnight in a shared W&B). 
+  - Lab 6 : line detection task
+  - Lab 7 : data labeling
+  - Lab 8 : continuous integration
+  - Lab 9 : web deployment
 
 # Setup
 
